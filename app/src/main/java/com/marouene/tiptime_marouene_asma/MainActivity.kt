@@ -1,8 +1,8 @@
-package com.marouene.tiptime
+package com.marouene.tiptime_marouene_asma
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.marouene.tiptime.databinding.ActivityMainBinding
+import com.marouene.tiptime_marouene_asma.databinding.ActivityMainBinding
 import java.text.NumberFormat
 
 class MainActivity : AppCompatActivity() {
